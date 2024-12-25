@@ -5,4 +5,7 @@ Módulo Transparency2: https://raw.githack.com/Ruben7173/Ruben7173.github.io/mas
 Os 2 itens acima não são meus. Eles vão para seus respectivos donos
 
 ## DONO DO TEMPLATE
-![Visualizar](https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/GGOThumbnail.PNG)
+
+[DONO DO TEMPLATE] https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins
+
+![Visualizar]([https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/GGOThumbnail.PNG)
