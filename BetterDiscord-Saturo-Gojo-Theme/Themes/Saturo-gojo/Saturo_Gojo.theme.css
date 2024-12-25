@@ -1,0 +1,37 @@
+/**
+ * @name Saturo Gojo Theme
+ * @author Martinez
+ * @version 1.0
+ * @owner source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ */
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+    --background: url('https://images3.alphacoders.com/133/thumb-1920-1331316.jpeg');
+    --activetext-colour: white;
+
+    --primary1-colour: rgb(0, 91, 177);
+    --primary2-colour: rgb(0, 0, 0);
+    --primary3-colour: rgba(1, 81, 105, 0.541);
+
+    --secondary1-colour: rgba(0, 0, 0, 0.37); /* Muda a cor da mensagens*/
+    --secondary2-colour: rgba(31, 31, 31, 0.596);  /* passando o mouse por cima*/
+    --secondary3-colour: rgb(0, 0, 0); /* Muda a top bar, mensagem no Direct e o mute e fone*/
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
+  
+/*
+Theme Owned and Made by VaporousCreeper#9514
+  
+Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
+
+The 2 items above are not owned by me, They go to there respected owners 
+*/
