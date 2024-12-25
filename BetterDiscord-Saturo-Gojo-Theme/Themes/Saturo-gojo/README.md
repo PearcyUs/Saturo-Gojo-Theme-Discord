@@ -8,4 +8,4 @@ Os 2 itens acima não são meus. Eles vão para seus respectivos donos
 
 [DONO DO TEMPLATE] https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins
 
-![Visualizar]([https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/GGOThumbnail.PNG)
+![Visualizar] (https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/GGOThumbnail.PNG)
