@@ -1,2 +1,9 @@
-# Saturo-Gojo-Theme-Discord
-project Discord
+SATORU-GOJO THEME v1.0 BETTERDISCORD 
+
+Temas de Satoru-GOJO para BetterDiscord
+
+ESPERO QUE APROVEITEM MEU NOVO TEMA DO BETTERDISCORD.
+
+ELE TODO NAO FOI FEITO POR MIM! O CRIADOR DO TEMPLATE QUE USEI ESTÁ AQUI (https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins)
+
+TODO DIREITO RESERVADO DO TEMPLATE SÃO DELE.
